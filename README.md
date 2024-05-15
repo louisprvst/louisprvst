@@ -17,5 +17,6 @@ Computer science students at the IUT of Littoral Côte d'Opale Calais.
 
 ## 📊 Github Stats :
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=louisprvst&hide_border=true&layout=compact&theme=codeSTACKr" align="center" />
-</div>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=louisprvst&hide_border=true&layout=compact&theme=cobalt2" align="center" height="175px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=louisprvst&hide=prs,issues&theme=cobalt2&hide_border=true" align ="center" height="175px"/>
+</div>
