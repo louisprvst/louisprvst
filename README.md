@@ -1,20 +1,22 @@
-# Hi 👋, I'm Louis Prévost !  
+# 👋 Salut, moi c’est **Louis** !
 
-Computer Science students in second year at the IUT of Littoral Côte d'Opale in Calais.
+🎓 Étudiant en 2ème année de BUT Informatique à l’IUT de Calais  
+🚀 À la recherche d’une **alternance en développement** pour la rentrée 2025  
+📍 Actuellement en stage aux Archives de Dunkerque – création d’un moteur de recherche sur les sauveteurs en mer  
 
-## 💻 Tech Stack :
+</br>
 
-  #### Front :
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,flutter,vuejs)](https://skillicons.dev)
-  
-  #### Back :
-  [![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,python,qt,java,maven,php,postgres,nodejs)](https://skillicons.dev)
-  
-  #### Autres :
-  [![My Skills](https://skillicons.dev/icons?i=linux,windows,git,bash,docker,arduino)](https://skillicons.dev)
+## 🛠️ Mes compétences
 
-## 📊 Github Stats :
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=louisprvst&hide_border=true&layout=compact&theme=cobalt2" align="center" height="150px"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=louisprvst&hide=issues&theme=cobalt2&hide_border=true" align ="center" height="150px"/>
-</div>
+#### 🌐 Frontend
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,flutter,vuejs)](https://skillicons.dev)
+
+#### 🧠 Backend
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,maven,python,qt,php,postgres,mysql,nodejs)](https://skillicons.dev)
+
+</br>
+
+## 📬 Me contacter
+
+📧 Email : _prevost.louis1610@gmail.com_  
+📂 Portfolio : _https://louisprvst.github.io/porte-folio/_
